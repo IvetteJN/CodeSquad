@@ -6,7 +6,7 @@ try:
         host="localhost",
         port=3307,
         user="root",
-        password="Ismael07",
+        password="",
         database="proyecto",
     )
     # IMPORTANTE: poner en PASSWORD = "" la contraseña que tengan en su base de datos.
